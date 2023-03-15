@@ -1,0 +1,39 @@
+
+.card-img-top {
+    height: 300px;
+    width: 300px;
+}
+
+.card-title {
+    white-space: nowrap; 
+
+    overflow: hidden;
+
+    text-overflow: ellipsis;
+
+}
+
+.card-text {
+    max-height: 70px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+nav a {
+    cursor: pointer;
+}
+
+.container-fluid {
+    margin-bottom: 100px!important;
+    /* height: 500px; */
+}
+
+.main {height: 500px;}
+ .card-body p,.card-body h5 {
+    text-decoration: none;
+    color: black;
+}
+
+.card a:hover {
+    text-decoration: none;
+}
